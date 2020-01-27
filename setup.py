@@ -67,7 +67,7 @@ tests_require = pip('test')
 dev_require = tests_require + pip('develop')
 
 setup(
-    name='flask-restx',
+    name='flask-restx-svilgelm-test',
     version=__version__,
     description=__description__,
     long_description=long_description,
