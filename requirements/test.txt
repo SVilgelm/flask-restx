@@ -1,5 +1,5 @@
 blinker
-Faker==2.0.0
+Faker==4.0.0
 mock==3.0.5
 pytest==4.6.5; python_version < '3.5'
 pytest==5.0.1; python_version >= '3.5'
