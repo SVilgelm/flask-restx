@@ -3,7 +3,7 @@ Faker==2.0.0
 mock==3.0.5
 pytest==4.6.5; python_version < '3.5'
 pytest==5.0.1; python_version >= '3.5'
-pytest-benchmark==3.2.2
+pytest-benchmark==3.2.3
 pytest-cov==2.7.1
 pytest-flask==0.15.0
 pytest-mock==1.10.4
